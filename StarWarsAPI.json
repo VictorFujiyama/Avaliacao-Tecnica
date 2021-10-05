@@ -1,0 +1,92 @@
+[
+  {
+    "People with 4 or more films:": 6,
+    "Character infos:": [
+      {
+        "name": "Luke Skywalker",
+        "total films": 4,
+        "films": [
+          "https://swapi.dev/api/films/1/",
+          "https://swapi.dev/api/films/2/",
+          "https://swapi.dev/api/films/3/",
+          "https://swapi.dev/api/films/6/"
+        ],
+        "homeWorld": "Tatooine"
+      },
+      {
+        "name": "C-3PO",
+        "total films": 6,
+        "films": [
+          "https://swapi.dev/api/films/1/",
+          "https://swapi.dev/api/films/2/",
+          "https://swapi.dev/api/films/3/",
+          "https://swapi.dev/api/films/4/",
+          "https://swapi.dev/api/films/5/",
+          "https://swapi.dev/api/films/6/"
+        ],
+        "homeWorld": "Tatooine"
+      },
+      {
+        "name": "R2-D2",
+        "total films": 6,
+        "films": [
+          "https://swapi.dev/api/films/1/",
+          "https://swapi.dev/api/films/2/",
+          "https://swapi.dev/api/films/3/",
+          "https://swapi.dev/api/films/4/",
+          "https://swapi.dev/api/films/5/",
+          "https://swapi.dev/api/films/6/"
+        ],
+        "homeWorld": "Naboo"
+      },
+      {
+        "name": "Darth Vader",
+        "total films": 4,
+        "films": [
+          "https://swapi.dev/api/films/1/",
+          "https://swapi.dev/api/films/2/",
+          "https://swapi.dev/api/films/3/",
+          "https://swapi.dev/api/films/6/"
+        ],
+        "homeWorld": "Tatooine"
+      },
+      {
+        "name": "Leia Organa",
+        "total films": 4,
+        "films": [
+          "https://swapi.dev/api/films/1/",
+          "https://swapi.dev/api/films/2/",
+          "https://swapi.dev/api/films/3/",
+          "https://swapi.dev/api/films/6/"
+        ],
+        "homeWorld": "Alderaan"
+      },
+      {
+        "name": "Obi-Wan Kenobi",
+        "total films": 6,
+        "films": [
+          "https://swapi.dev/api/films/1/",
+          "https://swapi.dev/api/films/2/",
+          "https://swapi.dev/api/films/3/",
+          "https://swapi.dev/api/films/4/",
+          "https://swapi.dev/api/films/5/",
+          "https://swapi.dev/api/films/6/"
+        ],
+        "homeWorld": "Stewjon"
+      }
+    ],
+    "Worlds with 5 or more residents:": 2,
+    "Worlds infos:": [
+      {
+        "name": "Tatooine",
+        "population": "200000",
+        "total residents": 10
+      },
+      {
+        "name": "Naboo",
+        "population": "4500000000",
+        "total residents": 11
+      }
+    ]
+  }
+]
