@@ -1,7 +1,7 @@
 # <h1>Avaliacao-Tecnica
   >Status: Developed
   
-Como utilizar os códigos
+<h1>Como utilizar os códigos
   
   
 
@@ -35,5 +35,9 @@ entrada n = 50.
   
   Devido ao comportamento das funções recursivas, principalmente em linguagem python onde todas as funções são jogadas na memória do call stack. Elas podem acabar consumindo muita memória, ou seja, o programa não suportaria fazer operações onde necessitam de muitas recursões pois o python permite somente mil delas, isto é o que acontece no caso de pedir o quinquagésimo termo da sequência de fibonnaci, por exemplo.
   O que resolveria esse problema seria a programação em loops, que em python acabam sendo bem mais performáticas do que as funções recursivas(Demonstrado no arquivo FiboSolved.py inserido na pasta Main program).
+  
+  
+  Sobre a terceira questão(Arquivo StarWarsAPI):
+    Esse código utiliza a biblioteca requests para consumir a API https://swapi.dev/ onde é consultado quais personagens aparecem em quatro filmes ou mais e quais planetas possuem cinco residentes ou mais e gera uma lista no formato .json com as informações dos mundos e personagens que atendem aos parâmetros definidos.
   
     
