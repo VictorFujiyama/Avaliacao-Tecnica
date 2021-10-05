@@ -40,6 +40,6 @@ entrada n = 50.
   
   
   <h1>Sobre a terceira questão(Arquivo StarWarsAPI):
-    <h4>Esse código utiliza a biblioteca requests para consumir a API https://swapi.dev/ onde é consultado quais personagens aparecem em quatro filmes ou mais e quais planetas possuem cinco residentes ou mais e gera uma lista no formato .json que fica localizado na raiz do projeto com o nome "StarWarsAPI.json" onde se encontra todas informações dos mundos e personagens que atendem aos parâmetros pré-definidos.
+    <h4>Esse código utiliza a biblioteca requests para consumir a API https://swapi.dev/ onde é consultado quais personagens aparecem em quatro filmes ou mais e quais planetas possuem cinco residentes ou mais e gera uma lista no formato .json que fica localizado na raiz do projeto com o nome "StarWarsAPI.json" onde se encontram todas informações dos mundos e personagens que atendem aos parâmetros pré-definidos.
   
     
