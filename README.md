@@ -34,6 +34,6 @@ entrada n = 50.
   
   
   Devido ao comportamento das funções recursivas, principalmente em linguagem python onde todas as funções são jogadas na memória do call stack. Elas podem acabar consumindo muita memória, ou seja, o programa não suportaria fazer operações onde necessitam de muitas recursões pois o python permite somente mil delas, isto é o que acontece no caso de pedir o quinquagésimo termo da sequência de fibonnaci, por exemplo.
-  O que resolveria esse problema seria a programação em loops, que em python acabam sendo bem mais performáticas do que as funções recursivas(Demonstrado no arquivo fiboSolved.py).
+  O que resolveria esse problema seria a programação em loops, que em python acabam sendo bem mais performáticas do que as funções recursivas(Demonstrado no arquivo FiboSolved.py).
   
     
