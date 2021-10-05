@@ -16,11 +16,11 @@
   
   
   
-Este arquivo .py tem como função principal a construção da sequência de Fibonacci:
+<h3>Este arquivo .py tem como função principal a construção da sequência de Fibonacci:
   
   
   
-  <h3>É uma sequência de números inteiros, começando por 0 e 1, na qual cada termo subsequente corresponde à soma dos dois anteriores.
+ É uma sequência de números inteiros, começando por 0 e 1, na qual cada termo subsequente corresponde à soma dos dois anteriores.
   
   Neste programa o usuário insere um número N de entrada e o programa responde com o N-ésimo termo da sequência de fibonacci
   
